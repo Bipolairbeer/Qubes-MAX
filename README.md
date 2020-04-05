@@ -7,7 +7,7 @@ Set private storage at least at 100GB
 
 Clone this repository:
 
-	sudo git clone https://github.com/Bipolairbeer/Qubes-MAX.git /home/user/Qubes-MAX
+	sudo git clone https://github.com/Bipolairbeer/Qubes-MAX.git
 
 Change the permission:
 
