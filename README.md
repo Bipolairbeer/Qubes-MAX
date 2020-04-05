@@ -2,6 +2,8 @@
 QubesOS with all available templates
 #
 
+Clone Fedora-XX in qubes-max (where XX = the current version in QubesOS)
+
 Clone this repository:
 
 	sudo git clone https://github.com/Bipolairbeer/Qubes-MAX.git /home/user/Qubes-MAX
