@@ -19,4 +19,4 @@ Go to the Qubes-Max directory:
 
 Run the script:
 
-	./buildmax
+	./buildmax.sh
